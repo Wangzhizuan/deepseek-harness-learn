@@ -1,0 +1,1 @@
+const e={securityLevel:"strict",startOnLoad:!1,theme:"default",fontFamily:"inherit",themeVariables:{fontSize:"16px"},flowchart:{useMaxWidth:!0,htmlLabels:!0,nodeSpacing:40,rankSpacing:50},sequence:{useMaxWidth:!0}};export{e as default};
